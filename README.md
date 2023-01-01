@@ -1,0 +1,2 @@
+# autoyast
+Autoyast Examples
